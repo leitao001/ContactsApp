@@ -1,0 +1,21 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "label": "BeiJing"
+    },
+    {
+      "id": 2,
+      "label": "ShangHai"
+    },
+    {
+      "id": 3,
+      "label": "ShenYang"
+    },
+    {
+      "id": 4,
+      "label": "DanDong"
+    }
+  ],
+  "contacts": []
+}
